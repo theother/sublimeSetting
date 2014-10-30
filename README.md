@@ -22,7 +22,7 @@ Packages
 + MarkdownEditing
 + Markdown Preview
 + TernJS
-+ 
++ AllAutocomplete
 
 Theme
 =====
